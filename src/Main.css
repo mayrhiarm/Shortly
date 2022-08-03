@@ -1,0 +1,310 @@
+/* ## Section1 begins here */
+.illustrate {
+  width: 100%;
+}
+.more {
+  padding: 10px;
+  font-weight: bolder;
+}
+.build {
+  padding: 10px;
+}
+
+.btn1 {
+  color: white;
+  background-color: #20c997;
+  border: none;
+  padding: 10px 80px;
+  border-radius: 30px;
+  transition: 0.5s;
+  margin-bottom: 15px;
+}
+
+/* ## Section1 ends here */
+
+/* ## Section2 begins here */
+.place {
+  color: white;
+  /* margin-top: 20px; */
+  border-radius: 5px;
+  /* margin-top: 10px; */
+  padding: 10px 20px;
+  border: none;
+  transition: 0.5s;
+  width: 100%;
+}
+
+.short {
+  color: white;
+  background-color: #20c997;
+  border: none;
+  padding: 10px 50px;
+  border-radius: 5px;
+  transition: 0.5s;
+  margin-top: 10px;
+  width: 100%;
+}
+.holder {
+  background-color: #3a3053;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  position: absolute;
+  top: -30%;
+}
+.tracker {
+  padding-top: 80px;
+}
+.stat {
+  padding: 10px;
+  margin-top: 10px;
+}
+.track {
+  padding: 10px;
+  margin-bottom: 0px;
+}
+.section2 {
+  background-color: #f0f1f6;
+  position: relative;
+  padding-top: 30px;
+}
+.diva {
+  padding-bottom: 100px;
+}
+
+/* ## Section2 ends here */
+
+/* ## Section3 begins here */
+
+.boost {
+  padding: 15px;
+}
+.get {
+  color: white;
+  background-color: #20c997;
+  border: none;
+  padding: 10px 80px;
+  border-radius: 30px;
+  transition: 0.5s;
+  margin-bottom: 15px;
+}
+.records {
+  background-color: white;
+  padding: 10px;
+  border: 2px;
+  border-radius: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 70px;
+  position: relative;
+}
+.recordss {
+  background-color: white;
+  padding: 10px;
+  border: 2px;
+  border-radius: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 70px;
+  position: relative;
+}
+.recordsss {
+  background-color: white;
+  padding: 10px;
+  border: 2px;
+  border-radius: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 70px;
+  position: relative;
+}
+.brands {
+  background-color: #3a3053;
+  border-radius: 40px;
+  padding: 20px;
+  position: absolute;
+  bottom: 85%;
+  left: 35%;
+}
+.brandss {
+  background-color: #3a3053;
+  border-radius: 40px;
+  padding: 20px;
+  position: absolute;
+  bottom: 85%;
+  left: 35%;
+}
+.brandsss {
+  background-color: #3a3053;
+  border-radius: 40px;
+  padding: 15px;
+  position: absolute;
+  bottom: 90%;
+  left: 38%;
+}
+.floor {
+  background-color: #f0f1f6;
+  padding-top: 50px;
+}
+
+.hey {
+  padding-top: 50px;
+}
+.booster {
+  background-image: url(./images/bg-boost-mobile.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #3a3053;
+  color: white;
+  padding: 30px;
+}
+
+/* ## Section3 ends here */
+
+@media (min-width: 425px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+  .myimages{
+    margin-top: 10px;
+  }
+  .flexx {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 30px;
+    padding-bottom: 100px;
+  }
+  .illustrate {
+    width: 60%;
+    position: relative;
+  }
+  .diva {
+    text-align: left;
+    /* margin-left: 20px; */
+  }
+  .place {
+    color: white;
+    border-radius: 5px;
+    border: none;
+    transition: 0.5s;
+    width: 75%;
+    margin-right: 15px;
+  }
+
+  .short {
+    color: white;
+    background-color: #20c997;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin-top: 0px;
+    width: 20%;
+  }
+  .tracker {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .track {
+    /* padding: 10px; */
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .stat {
+    padding: 10px;
+    margin-top: 70px;
+  }
+  .join {
+    display: flex;
+  }
+  .records {
+    background-color: white;
+    padding: 10px;
+    border: 2px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 70px;
+    position: relative;
+    text-align: left;
+  }
+  .recordss {
+    background-color: white;
+    padding: 10px;
+    border: 2px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 70px;
+    position: relative;
+    margin-top: 50px;
+    text-align: left;
+  }
+  .recordsss {
+    background-color: white;
+    padding: 10px;
+    border: 2px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 70px;
+    position: relative;
+    margin-top: 100px;
+    text-align: left;
+  }
+  .brands {
+    background-color: #3a3053;
+    border-radius: 40px;
+    padding: 20px;
+    position: absolute;
+    bottom: 90%;
+    left: 5%;
+  }
+  .brandss {
+    background-color: #3a3053;
+    border-radius: 40px;
+    padding: 20px;
+    position: absolute;
+    bottom: 90%;
+    left: 10%;
+  }
+  .brandsss {
+    background-color: #3a3053;
+    border-radius: 40px;
+    padding: 15px;
+    position: absolute;
+    bottom: 90%;
+    left: 12%;
+  }
+  .hey {
+    margin-left: 10px;
+  }
+  .general {
+    display: flex;
+    justify-content: space-around;
+  }
+  .shortt {
+    height: 30px;
+  }
+  .holder {
+    background-color: #3a3053;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: -10%;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: 80%;
+  }
+}
+@media (min-width: 1024px) {
+}

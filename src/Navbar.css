@@ -1,0 +1,56 @@
+.change {
+  background-color: #3a3053;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 10%;
+}
+.btn {
+  color: white;
+  background-color: #20c997;
+  border: none;
+  padding: 10px 80px;
+  border-radius: 30px;
+  transition: 0.5s;
+}
+.hr {
+  color: white;
+}
+.gift {
+  color: white;
+  text-decoration: none;
+}
+
+@media (min-width: 425px) {
+}
+
+@media (min-width: 600px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+  .change {
+    padding: 0px;
+    background-color: #f8f9fa;
+    color: red;
+    margin-top: 10px;
+  }
+  .change a {
+    color: black;
+    padding: 0px;
+  }
+
+  .mylinks {
+    display: flex;
+    margin-left: 90%;
+  }
+
+  .btn-nav {
+    padding: 3px 10px;
+    width: 110px;
+  }
+}
+
+@media (min-width: 1024px) {
+}
